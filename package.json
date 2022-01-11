@@ -12,6 +12,12 @@
     "storybook": "start-storybook --ci -s ./src/assets -p 8080 --quiet",
     "build:documentation": "npm run build && build-storybook -s ./src/assets -o ./docs"
   },
+  "files": [
+    "dist/css/",
+    "dist/fonts/",
+    "dist/js/",
+    "dist/scss/"
+  ],
   "devDependencies": {
     "@babel/core": "^7.8.3",
     "@babel/preset-react": "^7.12.1",
