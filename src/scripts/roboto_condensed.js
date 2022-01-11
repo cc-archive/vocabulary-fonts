@@ -1,1 +1,1 @@
-require('../styles/roboto_condensed.scss')
+require("../styles/roboto_condensed.scss");

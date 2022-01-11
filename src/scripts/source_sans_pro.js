@@ -1,1 +1,1 @@
-require('../styles/source_sans_pro.scss')
+require("../styles/source_sans_pro.scss");
