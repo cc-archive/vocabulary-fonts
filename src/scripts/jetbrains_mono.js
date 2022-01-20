@@ -1,1 +1,1 @@
-require('../styles/jetbrains_mono.scss')
+require("../styles/jetbrains_mono.scss");

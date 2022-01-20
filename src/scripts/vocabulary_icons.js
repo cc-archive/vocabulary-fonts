@@ -1,1 +1,1 @@
-require('../styles/vocabulary_icons.scss')
+require("../styles/vocabulary_icons.scss");
