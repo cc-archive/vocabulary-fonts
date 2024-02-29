@@ -7,7 +7,7 @@ const order = {
   'Vocabulary Icons': [],
   'Roboto Condensed': [],
   'Source Sans Pro': [],
-  'Accidenz Commons': [],
+  'CC Accidenz Commons': [],
   'JetBrains Mono': [],
 }
 const families = Object.keys(order)

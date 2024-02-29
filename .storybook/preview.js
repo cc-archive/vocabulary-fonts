@@ -3,7 +3,7 @@ import { addDecorator, addParameters, } from '@storybook/html'
 import order from './order'
 
 import '../dist/css/fonts.css'
-import '../dist/css/accidenz_commons.css'
+import '../dist/css/cc_accidenz_commons.css'
 
 addParameters({
   options: {

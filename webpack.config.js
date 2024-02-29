@@ -5,7 +5,7 @@ const CopyPlugin = require("copy-webpack-plugin");
 module.exports = {
   entry: {
     fonts: "./src/index.js",
-    accidenz_commons: "./src/scripts/accidenz_commons.js",
+    cc_accidenz_commons: "./src/scripts/cc_accidenz_commons.js",
     roboto_condensed: "./src/scripts/roboto_condensed.js",
     source_sans_pro: "./src/scripts/source_sans_pro.js",
     vocabulary_icons: "./src/scripts/vocabulary_icons.js"
